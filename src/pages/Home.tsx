@@ -99,7 +99,7 @@ const Home = () => {
 };
 // In your card component (where the Request button is located)
 const handleWhatsAppClick = (service: string) => {
-  const phoneNumber = "+212"; // Replace with your WhatsApp number
+  const phoneNumber = "+212706916570"; // Replace with your WhatsApp number
   const message = `Hello, I would like to request the service: ${service}`;
   const encodedMessage = encodeURIComponent(message);
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
