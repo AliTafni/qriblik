@@ -5,7 +5,6 @@ import {
   Route,
   Link,
 } from "react-router-dom";
-import { useState, useEffect } from "react";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import NotFound from "./pages/NotFound";
