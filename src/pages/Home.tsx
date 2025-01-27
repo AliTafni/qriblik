@@ -2,6 +2,7 @@ import { useSearchParams } from "react-router-dom";
 import { ChevronDownIcon, ChevronUpIcon } from "@heroicons/react/24/outline";
 import { useState } from "react";
 import { serviceCategories } from "../data/services";
+import Footer from "../components/Footer";
 
 const Home = () => {
   const [searchParams] = useSearchParams();
@@ -20,7 +21,7 @@ const Home = () => {
     .filter((category) => category.services.length > 0);
 
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 p-8">
+    <div className="min-h-screen bg-[url(/src/assets/bcg.jpg)] bg-contain dark:bg-gray-900 p-8">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-4xl font-bold text-gray-900 dark:text-gray-100 mb-8">
           Our Services
@@ -94,6 +95,7 @@ const Home = () => {
           </div>
         )}
       </div>
+      <Footer />
     </div>
   );
 };
