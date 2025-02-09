@@ -18,8 +18,6 @@ function Home({ isMobileMenuOpen, handleMenuToggle }: HomeProps) {
     handleMenuToggle(); // Close sidebar on selection
   };
 
-
-
   return (
     <div className="flex flex-col sm:flex-row h-full">
       {/* Sidebar for larger screens */}
@@ -51,13 +49,13 @@ function Home({ isMobileMenuOpen, handleMenuToggle }: HomeProps) {
             onCategoryClick={handleCategoryClick}
             selectedCategoryId={selectedCategoryId}
           />
-
-          
         </div>
       )}
 
       {/* Main Content */}
-      <main className="flex-1">
+      <main className="flex-1 pb-16 sm:pb-0">
+        {" "}
+        {/* Added mobile padding-bottom */}
         <ServiceList
           services={services}
           selectedCategoryId={selectedCategoryId}
@@ -68,3 +66,4 @@ function Home({ isMobileMenuOpen, handleMenuToggle }: HomeProps) {
 }
 
 export default Home;
+
