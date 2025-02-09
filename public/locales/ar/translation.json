@@ -1,0 +1,211 @@
+{
+  "appName": "قريبلك",
+  "home": "الرئيسية",
+  "about": "من نحن",
+  "contact": "اتصل بنا",
+  "phoneNumber": "+212699932627",
+  "searchPlaceholder": "ابحث عن الخدمات...",
+  "notFound": {
+    "title": "الصفحة غير موجودة",
+    "message": "الصفحة التي تبحث عنها غير موجودة."
+  },
+  "darkMode": "الوضع الليلي",
+  "buttons": {
+    "close": "إغلاق",
+    "search": "بحث"
+  },
+  "sidebar": {
+    "title": "فئات الخدمات",
+    "toggle": "تبديل التنقل"
+  },
+  "categories": {
+    "all": "جميع الخدمات",
+    "": "جميع الخدمات",
+    "home-services": "خدمات منزلية",
+    "design-services": "خدمات تصميم",
+    "healthcare-services": "خدمات الرعاية الصحية",
+    "maintenance-services": "خدمات صيانة",
+    "construction-services": "خدمات بناء",
+    "delivery-services": "خدمات توصيل",
+    "beauty-services": "خدمات تجميل",
+    "entertainment-services": "خدمات ترفيه",
+    "digital-services": "خدمات رقمية"
+  },
+  "service": {
+    "allServices": "جميع الخدمات",
+    "categoryHeading": "الخدمات في {{category}}",
+    "noServices": "لم يتم العثور على خدمات تطابق معاييرك",
+    "messageTemplate": "مرحباً! أنا مهتم بخدمة {{serviceName}}. هل يمكنك تقديم المزيد من المعلومات؟",
+    "services": {
+      "home-electrical": {
+        "title": "اعمال كهربائية",
+        "description": "تركيبات وإصلاحات كهربائية احترافية"
+      },
+      "home-plumbing": {
+        "title": "سباكة",
+        "description": "خدمات سباكة 24/7 وإصلاحات الطوارئ"
+      },
+      "home-repairs": {
+        "title": "إصلاحات",
+        "description": "خدمات إصلاح منزلية عامة"
+      },
+      "home-carpentry": {
+        "title": "نجارة",
+        "description": "أعمال خشبية مخصصة وإصلاح الأثاث"
+      },
+      "home-cleaning": {
+        "title": "تنظيف",
+        "description": "خدمات تنظيف منزلية احترافية"
+      },
+      "home-painting": {
+        "title": "طلاء",
+        "description": "خدمات طلاء داخلية وخارجية"
+      },
+      "shop-preparation": {
+        "title": "تجهيز المحلات",
+        "description": "إعداد وتجهيز المساحات التجارية"
+      },
+      "gypsum-works": {
+        "title": "أعمال جبس",
+        "description": "تركيب وإصلاح الجدران الجبسية"
+      },
+      "wallpaper-installation": {
+        "title": "تركيب ورق جدران",
+        "description": "خدمات احترافية لتعليق ورق الجدران"
+      },
+      "zellige": {
+        "title": "زليج",
+        "description": "خدمات تركيب البلاط التقليدي"
+      },
+      "marble-works": {
+        "title": "أعمال رخام",
+        "description": "تركيب وصيانة الرخام"
+      },
+      "surface-sessions": {
+        "title": "جلسات الأسطح",
+        "description": "استشارات مخصصة لتصميم الأسطح"
+      },
+      "interior-design": {
+        "title": "تصميم داخلي",
+        "description": "حلول تصميم داخلي كاملة"
+      },
+      "garden-design": {
+        "title": "تصميم حدائق",
+        "description": "خدمات تخطيط المناظر الطبيعية والحدائق"
+      },
+      "3d-designs": {
+        "title": "تصاميم ثلاثية الأبعاد",
+        "description": "خدمات النمذجة والتصور ثلاثي الأبعاد"
+      },
+      "patient-monitoring": {
+        "title": "مراقبة المرضى",
+        "description": "خدمات مراقبة صحية عن بعد"
+      },
+      "mental-health-support": {
+        "title": "دعم الصحة النفسية",
+        "description": "استشارات نفسية احترافية"
+      },
+      "phone-repair": {
+        "title": "تصليح هواتف",
+        "description": "خدمات إصلاح الأجهزة المحمولة"
+      },
+      "fridge-repair": {
+        "title": "تصليح ثلاجات",
+        "description": "صيانة وتصليح الثلاجات"
+      },
+      "mechanic-services": {
+        "title": "خدمات ميكانيكي",
+        "description": "إصلاح وصيانة السيارات"
+      },
+      "hvac": {
+        "title": "HVAC",
+        "description": "خدمات أنظمة التدفئة والتبريد"
+      },
+      "electronic-installation": {
+        "title": "تركيب إلكترونيات",
+        "description": "خدمات تركيب الأجهزة الإلكترونية المنزلية"
+      },
+      "camera-installation": {
+        "title": "تركيب كاميرات",
+        "description": "تركيب كاميرات المراقبة"
+      },
+      "building-construction": {
+        "title": "بناء",
+        "description": "خدمات بناء واسعة النطاق"
+      },
+      "blacksmithing": {
+        "title": "حدادة",
+        "description": "خدمات أعمال معدنية مخصصة"
+      },
+      "aluminum-works": {
+        "title": "أعمال ألومنيوم",
+        "description": "تصنيع وتركيب الألومنيوم"
+      },
+      "package-delivery": {
+        "title": "توصيل طرود",
+        "description": "خدمات توصيل طرود آمنة"
+      },
+      "furniture-transport": {
+        "title": "نقل أثاث",
+        "description": "خدمات نقل العناصر الكبيرة"
+      },
+      "nail-services": {
+        "title": "خدمات أظافر",
+        "description": "علاجات احترافية للعناية بالأظافر"
+      },
+      "hair-cutting": {
+        "title": "قص شعر",
+        "description": "خدمات تصفيف شعر احترافية"
+      },
+      "henna": {
+        "title": "حناء",
+        "description": "خدمات تطبيق الحناء التقليدية"
+      },
+      "beauty-treatments": {
+        "title": "تجميل",
+        "description": "علاجات تجميل عامة"
+      },
+      "home-cleaning-beauty": {
+        "title": "تنظيف",
+        "description": "خدمات تنظيف مساحات التجميل"
+      },
+      "cooking-services": {
+        "title": "خدمات طبخ",
+        "description": "خدمات طبخ متخصصة"
+      },
+      "house-help": {
+        "title": "مساعدة منزلية",
+        "description": "خدمات مساعدة منزلية"
+      },
+      "mens-haircut": {
+        "title": "حلاقة رجالية",
+        "description": "خدمات حلاقة احترافية"
+      },
+      "event-planning": {
+        "title": "تخطيط مناسبات",
+        "description": "تنسيق مناسبات متكامل الخدمات"
+      },
+      "performances": {
+        "title": "عروض",
+        "description": "حجز عروض ترفيهية حية"
+      },
+      "bookings": {
+        "title": "حجوزات",
+        "description": "خدمات حجز ترفيه"
+      },
+      "consulting": {
+        "title": "استشارات",
+        "description": "استشارات في مجال تكنولوجيا المعلومات والأعمال"
+      },
+      "translation": {
+        "title": "ترجمة",
+        "description": "خدمات ترجمة احترافية"
+      },
+      "web-app-dev": {
+        "title": "تطوير مواقع وتطبيقات",
+        "description": "تطوير برمجيات مخصصة"
+      }
+    }
+  }
+}
+

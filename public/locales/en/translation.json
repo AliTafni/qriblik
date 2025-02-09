@@ -1,0 +1,210 @@
+{
+  "appName": "9ribLik",
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact",
+  "phoneNumber": "+212699932627",
+  "searchPlaceholder": "Search services...",
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "The page you're looking for doesn't exist."
+  },
+  "darkMode": "Dark Mode",
+  "buttons": {
+    "close": "Close",
+    "search": "Search"
+  },
+  "sidebar": {
+    "title": "Services Categories",
+    "toggle": "Toggle Navigation"
+  },
+  "categories": {
+    "":"All services",
+    "all":"All Services",
+    "home-services": "Home Services",
+    "design-services": "Design Services",
+    "healthcare-services": "Healthcare Services",
+    "maintenance-services": "Maintenance Services",
+    "construction-services": "Construction Services",
+    "delivery-services": "Delivery Services",
+    "beauty-services": "Beauty Services",
+    "entertainment-services": "Entertainment Services",
+    "digital-services": "Digital Services"
+  },
+  "service": {
+    "allServices": "All Services",
+    "categoryHeading": "Services in {{category}}",
+    "noServices": "No services found matching your criteria",
+    "messageTemplate": "Hello! I'm interested in the {{serviceName}} service. Could you provide more information?",
+    "services": {
+      "home-electrical": {
+        "title": "Electrical Work",
+        "description": "Professional electrical installations and repairs"
+      },
+      "home-plumbing": {
+        "title": "Plumbing",
+        "description": "24/7 plumbing services and emergency repairs"
+      },
+      "home-repairs": {
+        "title": "Repairs",
+        "description": "General home repair services"
+      },
+      "home-carpentry": {
+        "title": "Carpentry",
+        "description": "Custom woodworking and furniture repair"
+      },
+      "home-cleaning": {
+        "title": "Cleaning",
+        "description": "Professional home cleaning services"
+      },
+      "home-painting": {
+        "title": "Painting",
+        "description": "Interior and exterior painting services"
+      },
+      "shop-preparation": {
+        "title": "Shop Preparation",
+        "description": "Commercial space setup and preparation"
+      },
+      "gypsum-works": {
+        "title": "Gypsum Works",
+        "description": "Drywall installation and repair"
+      },
+      "wallpaper-installation": {
+        "title": "Wallpaper Installation",
+        "description": "Professional wallpaper hanging services"
+      },
+      "zellige": {
+        "title": "Zellige",
+        "description": "Traditional tile installation services"
+      },
+      "marble-works": {
+        "title": "Marble Works",
+        "description": "Marble installation and maintenance"
+      },
+      "surface-sessions": {
+        "title": "Surface Sessions",
+        "description": "Custom surface design consultations"
+      },
+      "interior-design": {
+        "title": "Interior Design",
+        "description": "Complete interior design solutions"
+      },
+      "garden-design": {
+        "title": "Garden Design",
+        "description": "Landscape and garden planning services"
+      },
+      "3d-designs": {
+        "title": "3D Designs",
+        "description": "3D modeling and visualization services"
+      },
+      "patient-monitoring": {
+        "title": "Patient Monitoring",
+        "description": "Remote health monitoring services"
+      },
+      "mental-health-support": {
+        "title": "Mental Health Support",
+        "description": "Professional mental health counseling"
+      },
+      "phone-repair": {
+        "title": "Phone Repair",
+        "description": "Mobile device repair services"
+      },
+      "fridge-repair": {
+        "title": "Fridge Repair",
+        "description": "Refrigerator maintenance and repair"
+      },
+      "mechanic-services": {
+        "title": "Mechanic Services",
+        "description": "Automotive repair and maintenance"
+      },
+      "hvac": {
+        "title": "HVAC",
+        "description": "Heating and cooling system services"
+      },
+      "electronic-installation": {
+        "title": "Electronic Installation",
+        "description": "Home electronic setup services"
+      },
+      "camera-installation": {
+        "title": "Camera Installation",
+        "description": "Security camera installation"
+      },
+      "building-construction": {
+        "title": "Building Construction",
+        "description": "Full-scale construction services"
+      },
+      "blacksmithing": {
+        "title": "Blacksmithing",
+        "description": "Custom metalwork services"
+      },
+      "aluminum-works": {
+        "title": "Aluminum Works",
+        "description": "Aluminum fabrication and installation"
+      },
+      "package-delivery": {
+        "title": "Package Delivery",
+        "description": "Secure parcel delivery services"
+      },
+      "furniture-transport": {
+        "title": "Furniture Transport",
+        "description": "Large item moving services"
+      },
+      "nail-services": {
+        "title": "Nail Services",
+        "description": "Professional nail care treatments"
+      },
+      "hair-cutting": {
+        "title": "Hair Cutting",
+        "description": "Professional hairstyling services"
+      },
+      "henna": {
+        "title": "Henna",
+        "description": "Traditional henna application services"
+      },
+      "beauty-treatments": {
+        "title": "Beauty",
+        "description": "General beauty treatments"
+      },
+      "home-cleaning-beauty": {
+        "title": "Cleaning",
+        "description": "Beauty space cleaning services"
+      },
+      "cooking-services": {
+        "title": "Cooking",
+        "description": "Specialty cooking services"
+      },
+      "house-help": {
+        "title": "House Help",
+        "description": "Domestic assistance services"
+      },
+      "mens-haircut": {
+        "title": "Men's Haircut",
+        "description": "Professional barber services"
+      },
+      "event-planning": {
+        "title": "Event Planning",
+        "description": "Full-service event coordination"
+      },
+      "performances": {
+        "title": "Performances",
+        "description": "Live entertainment booking"
+      },
+      "bookings": {
+        "title": "Bookings",
+        "description": "Entertainment reservation services"
+      },
+      "consulting": {
+        "title": "Consulting",
+        "description": "IT and business consulting"
+      },
+      "translation": {
+        "title": "Translation",
+        "description": "Professional translation services"
+      },
+      "web-app-dev": {
+        "title": "Website & App Development",
+        "description": "Custom software development"
+      }
+    }
+  }
+}

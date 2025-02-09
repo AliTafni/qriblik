@@ -1,0 +1,210 @@
+{
+  "appName": "9ribLik",
+  "home": "Accueil",
+  "about": "À propos",
+  "contact": "Contact",
+  "phoneNumber": "+212699932627",
+  "searchPlaceholder": "Rechercher des services...",
+  "notFound": {
+    "title": "Page non trouvée",
+    "message": "La page que vous recherchez n'existe pas."
+  },
+  "darkMode": "Mode Sombre",
+  "buttons": {
+    "close": "Fermer",
+    "search": "Rechercher"
+  },
+  "sidebar": {
+    "title": "Catégories de Services",
+    "toggle": "Basculer la Navigation"
+  },
+  "categories": {
+    "all": "Tous les services",
+    "": "Tous les services",
+    "home-services": "Services à domicile",
+    "design-services": "Services de conception",
+    "healthcare-services": "Services de santé",
+    "maintenance-services": "Services de maintenance",
+    "construction-services": "Services de construction",
+    "delivery-services": "Services de livraison",
+    "beauty-services": "Services de beauté",
+    "entertainment-services": "Services de divertissement",
+    "digital-services": "Services numériques"
+  },
+  "service": {
+    "allServices": "Tous les services",
+    "categoryHeading": "Services dans {{category}}",
+    "noServices": "Aucun service trouvé correspondant à vos critères",
+    "messageTemplate": "Bonjour ! Je suis intéressé par le service {{serviceName}}. Pourriez-vous me fournir plus d'informations ?",
+    "services": {
+      "home-electrical": {
+        "title": "Travaux d'électricité",
+        "description": "Installations électriques professionnelles et services de réparation"
+      },
+      "home-plumbing": {
+        "title": "Plomberie",
+        "description": "Services de plomberie 24h/24 et 7j/7 et réparations d'urgence"
+      },
+      "home-repairs": {
+        "title": "Réparations",
+        "description": "Services généraux de réparation à domicile"
+      },
+      "home-carpentry": {
+        "title": "Menuiserie",
+        "description": "Travaux de menuiserie sur mesure et réparation de meubles"
+      },
+      "home-cleaning": {
+        "title": "Nettoyage",
+        "description": "Services de nettoyage domestique professionnels"
+      },
+      "home-painting": {
+        "title": "Peinture",
+        "description": "Services de peinture intérieure et extérieure"
+      },
+      "shop-preparation": {
+        "title": "Préparation de magasins",
+        "description": "Aménagement et préparation d'espaces commerciaux"
+      },
+      "gypsum-works": {
+        "title": "Travaux de plâtre",
+        "description": "Installation et réparation de cloisons sèches"
+      },
+      "wallpaper-installation": {
+        "title": "Pose de papier peint",
+        "description": "Services professionnels de pose de papier peint"
+      },
+      "zellige": {
+        "title": "Zellige",
+        "description": "Services traditionnels de pose de carrelage"
+      },
+      "marble-works": {
+        "title": "Travaux de marbre",
+        "description": "Installation et entretien du marbre"
+      },
+      "surface-sessions": {
+        "title": "Séances de surfaces",
+        "description": "Consultations de conception de surface personnalisées"
+      },
+      "interior-design": {
+        "title": "Design d'intérieur",
+        "description": "Solutions complètes de design d'intérieur"
+      },
+      "garden-design": {
+        "title": "Conception de jardins",
+        "description": "Services de planification paysagère et de conception de jardins"
+      },
+      "3d-designs": {
+        "title": "Conceptions 3D",
+        "description": "Services de modélisation et de visualisation 3D"
+      },
+      "patient-monitoring": {
+        "title": "Surveillance des patients",
+        "description": "Services de surveillance de la santé à distance"
+      },
+      "mental-health-support": {
+        "title": "Soutien en santé mentale",
+        "description": "Conseil professionnel en santé mentale"
+      },
+      "phone-repair": {
+        "title": "Réparation de téléphones",
+        "description": "Services de réparation d'appareils mobiles"
+      },
+      "fridge-repair": {
+        "title": "Réparation de réfrigérateurs",
+        "description": "Entretien et réparation de réfrigérateurs"
+      },
+      "mechanic-services": {
+        "title": "Services de mécanicien",
+        "description": "Réparation et entretien automobiles"
+      },
+      "hvac": {
+        "title": "CVC",
+        "description": "Services de systèmes de chauffage et de climatisation"
+      },
+      "electronic-installation": {
+        "title": "Installation électronique",
+        "description": "Services d'installation d'électronique domestique"
+      },
+      "camera-installation": {
+        "title": "Installation de caméras",
+        "description": "Installation de caméras de sécurité"
+      },
+      "building-construction": {
+        "title": "Construction de bâtiments",
+        "description": "Services de construction à grande échelle"
+      },
+      "blacksmithing": {
+        "title": "Ferronnerie",
+        "description": "Services de métallurgie sur mesure"
+      },
+      "aluminum-works": {
+        "title": "Travaux d'aluminium",
+        "description": "Fabrication et installation d'aluminium"
+      },
+      "package-delivery": {
+        "title": "Livraison de colis",
+        "description": "Services de livraison de colis sécurisés"
+      },
+      "furniture-transport": {
+        "title": "Transport de meubles",
+        "description": "Services de déménagement d'articles volumineux"
+      },
+      "nail-services": {
+        "title": "Services d'onglerie",
+        "description": "Soins professionnels des ongles"
+      },
+      "hair-cutting": {
+        "title": "Coupe de cheveux",
+        "description": "Services de coiffure professionnels"
+      },
+      "henna": {
+        "title": "Henné",
+        "description": "Services d'application de henné traditionnel"
+      },
+      "beauty-treatments": {
+        "title": "Beauté",
+        "description": "Soins de beauté généraux"
+      },
+      "home-cleaning-beauty": {
+        "title": "Nettoyage",
+        "description": "Services de nettoyage d'espaces de beauté"
+      },
+      "cooking-services": {
+        "title": "Services de cuisine",
+        "description": "Services de cuisine spécialisés"
+      },
+      "house-help": {
+        "title": "Aide à domicile",
+        "description": "Services d'assistance domestique"
+      },
+      "mens-haircut": {
+        "title": "Coupe de cheveux pour hommes",
+        "description": "Services de barbier professionnels"
+      },
+      "event-planning": {
+        "title": "Planification d'événements",
+        "description": "Coordination d'événements à service complet"
+      },
+      "performances": {
+        "title": "Spectacles",
+        "description": "Réservation de spectacles de divertissement en direct"
+      },
+      "bookings": {
+        "title": "Réservations",
+        "description": "Services de réservation de divertissements"
+      },
+      "consulting": {
+        "title": "Consultation",
+        "description": "Conseil en informatique et en affaires"
+      },
+      "translation": {
+        "title": "Traduction",
+        "description": "Services de traduction professionnels"
+      },
+      "web-app-dev": {
+        "title": "Développement de sites web et d'applications",
+        "description": "Développement de logiciels personnalisés"
+      }
+    }
+  }
+}

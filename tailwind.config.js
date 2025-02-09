@@ -1,13 +1,9 @@
-// tailwind.config.js
+/** @type {import('tailwindcss').Config} */
 module.exports = {
-  darkMode: "class", // Use class-based dark mode
-  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  darkMode: "class", // Enable dark mode using class strategy
   theme: {
-    extend: {
-      gridAutoRows: {
-        fr: "minmax(0, 1fr)",
-      },
-    },
+    extend: {},
   },
   plugins: [],
 };
