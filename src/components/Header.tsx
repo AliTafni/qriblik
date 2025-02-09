@@ -31,7 +31,7 @@ const Header = ({ onMenuToggle }: { onMenuToggle: () => void }) => {
 
             {/* Instagram Icon */}
             <a
-              href="https://www.instagram.com/yourpage"
+              href="https://www.instagram.com/9riblik_officiel?igsh=dW1zYm1waGxtbzhz"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-700 dark:text-gray-300 hover:text-pink-600 dark:hover:text-pink-400 transition-colors duration-300"
